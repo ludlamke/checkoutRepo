@@ -2,8 +2,6 @@ public class helloTesting {
 
     public static void main(String[] args) {
         System.out.println("Hello Testing");
-        even(5);
-
     }
 
     public static Boolean even(int numb) {
